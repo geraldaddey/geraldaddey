@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a Messaging App with React and Firebase.
-- 🌱 I’m currently learning SwiftUI.
+- 🌱 I’m currently learning SwiftUI and Flutter.
 - 👯 I’m looking to collaborate on any cool Project within my scope.
 - 🤔 I’m looking for help with Web3.js
 - 📫 How to reach me: geraldaddey@yahoo.com
