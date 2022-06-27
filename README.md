@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
--  I’m currently working on a Messaging App with React and Firebase.
+-  I’m currently working on a Movies App (like netflix) with React.
 -  I’m currently learning SwiftUI.
 -  I’m looking to collaborate on any cool Project within my scope.
 - 📫 How to reach me: geraldaddey@yahoo.com
