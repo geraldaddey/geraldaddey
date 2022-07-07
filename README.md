@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
--  I’m currently working on an E-commerce site with React and Commerce.js
+-  I’m currently working on a Tiktok Clone with React and Next.js (TypeScript)
 -  I’m currently learning SwiftUI.
--  I’m looking to collaborate on any cool Project within my scope.
+-  I’m looking to collaborate on any Project within my scope.
 - 📫 How to reach me: geraldaddey@yahoo.com
 
 
