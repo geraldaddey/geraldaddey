@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
--  I’m currently working on a Tiktok Clone with React and Next.js (TypeScript)
--  I’m currently learning SwiftUI.
+-  I’m currently working on React projects.
+-  I’m also building projects in Swift.
 -  I’m looking to collaborate on any Project within my scope.
 - 📫 How to reach me: geraldaddey@yahoo.com
 
