@@ -23,4 +23,4 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=geraldaddey&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=900C3F">
+![Gerald Addey's GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldaddey&show_icons=true&theme=tokyonight)
