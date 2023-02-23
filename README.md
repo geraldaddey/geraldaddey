@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
--  I’m currently working on React projects.
--  I’m also building projects in Swift.
+-  I’m currently working with Ruby on Rails.
+-  I’m also building projects in Python.
 -  I’m looking to collaborate on any Project within my scope.
 - 📫 How to reach me: geraldaddey@yahoo.com
 
