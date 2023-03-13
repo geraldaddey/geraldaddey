@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
--  I’m currently working with Ruby on Rails.
--  I’m also building projects in Python.
+-  I’m currently working with Ruby on Rails, Hotwire and Stimulus.js
+-  I’m also building projects in Sinatara.
 -  I’m looking to collaborate on any Project within my scope.
 - 📫 How to reach me: geraldaddey@yahoo.com
 
