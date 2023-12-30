@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
--  I’m currently working with Ruby on Rails, React and TypeScript
--  I’m also building projects in Elixir.
+-  I’m currently working with Next.js with TypeScript, Ruby and Python
+-  I’m also building fault tolerant projects in Elixir.
 -  I’m looking to collaborate on any Project regardless of my scope. I'm open to learn new stuff, bring them on!
 - 📫 How to reach me: geraldaddey@yahoo.com
 - 👨🏾‍💼 Linkedin: https://www.linkedin.com/in/geraldaddey/
