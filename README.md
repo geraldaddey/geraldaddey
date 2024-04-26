@@ -2,8 +2,8 @@
 
 I'm Gerald, a tech enthusiast with a passion for building innovative solutions. Here's a glimpse into what I've been up to:
 
-- 💼 Currently, I'm deeply involved with **Next.js** in **TypeScript** for web development, **React-Native** for mobile development and **Python** for AI and Machine Learning.
-- 🚀 Additionally, I'm actively engaged in contributing to open-source projects.
+- 💼 Currently, I'm involved with **Next.js** and **Vuejs** for web development, **React-Native** for mobile development and **Python** for AI and Machine Learning.
+- 🚀 Additionally, I love contributing to open-source projects.
 - 👨🏾‍💻 I'm eager to collaborate on exciting projects across various domains. No challenge is too big—I thrive on learning and embracing new technologies!
 - 📫 Let's connect! Shoot me an email at geraldaddey@yahoo.com or find me on [LinkedIn](https://www.linkedin.com/in/geraldaddey/).
 
@@ -22,6 +22,8 @@ I'm Gerald, a tech enthusiast with a passion for building innovative solutions. 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
