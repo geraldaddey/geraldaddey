@@ -5,7 +5,8 @@ I'm Gerald, a tech enthusiast with a passion for building innovative solutions. 
 - 💼 Currently, I'm involved with **Next.js** and **Vuejs** for web development, **React-Native** for mobile development and **Python** for AI and Machine Learning.
 - 🚀 Additionally, I love contributing to open-source projects.
 - 👨🏾‍💻 I'm eager to collaborate on exciting projects across various domains. No challenge is too big—I thrive on learning and embracing new technologies!
-- 📫 Let's connect! Shoot me an email at geraldaddey@yahoo.com or find me on [LinkedIn](https://www.linkedin.com/in/geraldaddey/).
+- 📫 Let's connect! Shoot me a [mail](mailto:geraldaddey@yahoo.com)
+ or find me on [LinkedIn](https://www.linkedin.com/in/geraldaddey/).
 
 ## 🌐 Socials
 
