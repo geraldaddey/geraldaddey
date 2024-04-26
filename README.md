@@ -9,7 +9,7 @@ I'm Gerald, a tech enthusiast with a passion for building innovative solutions. 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gerald-addey/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/__quansah/) [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/__quansah) [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/c/QuansahTVchannel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/geraldaddey/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/__quansah/) [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/__quansah) [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/c/QuansahTVchannel)
 
 ## 💻 Tech Stack
 
