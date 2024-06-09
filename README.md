@@ -38,5 +38,12 @@ I'm Gerald, a tech enthusiast with a passion for building innovative solutions. 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 
+## Stats
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=geraldaddey&theme=dracula&show_icons=true&hide_border=false&count_private=true' />
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldaddey\&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=400px\&include_all_commits=true)](https://github.com/geraldaddey/github-readme-stats)
+
 
 Join me in exploring the endless possibilities of technology! Let's connect and innovate together.
