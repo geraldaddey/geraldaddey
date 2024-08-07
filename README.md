@@ -1,6 +1,6 @@
 ### Hey there! 
 
-I'm Gerald, a tech enthusiast with a passion for building innovative solutions. Here's a glimpse into what I've been up to:
+I'm Gerald, a tech enthusiast with a passion for building cool stuff and exploring new ideas. Here's a glimpse into what I've been up to:
 
 - Currently, I'm involved with **RubyonRails** and **Vuejs** for web development.
 - I love contributing to open-source projects every now and then.
