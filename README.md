@@ -27,6 +27,8 @@ I'm Gerald, a tech enthusiast with a passion for building cool stuff and explori
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Clasp](https://img.shields.io/badge/-Clasp-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-34A853?style=for-the-badge&logo=google&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ## Frameworks & Libraries
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
