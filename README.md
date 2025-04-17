@@ -3,6 +3,7 @@
 I'm Gerald, a tech enthusiast with a passion for building cool stuff and exploring new ideas. Here's a glimpse into what I've been up to:
 
 - Currently, I'm involved with **RubyonRails** and **Vuejs** for web development.
+- I am constantly exploring ways to integrate AI technologies into projects to enhance user experiences and drive innovation.
 - I love contributing to open-source projects every now and then.
 - I'm eager to collaborate on exciting projects across various domains. No challenge is too big—I thrive on learning and embracing new technologies!
 - Let's connect! Shoot me a [mail](mailto:geraldaddey@yahoo.com)
