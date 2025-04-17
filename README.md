@@ -16,9 +16,9 @@ I'm Gerald, a tech enthusiast with a passion for building cool stuff and explori
 # Tech Stack
 
 ## AI Tools
-- ![Cursor](https://img.shields.io/badge/Cursor-0475B5?style=for-the-badge): Cursor is a tool for AI automation and data labeling.
-- ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD166?style=for-the-badge): Hugging Face provides state-of-the-art natural language processing models.
-- ![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-00427E?style=for-the-badge): MCP Protocol is a communication protocol used in AI systems.
+![Cursor](https://img.shields.io/badge/Cursor-0475B5?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD166?style=for-the-badge)
+![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-00427E?style=for-the-badge)
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
