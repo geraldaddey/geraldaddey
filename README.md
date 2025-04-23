@@ -19,7 +19,6 @@ I'm Gerald, a tech enthusiast with a passion for building cool stuff and explori
 ![Cursor](https://img.shields.io/badge/Cursor-0475B5?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD166?style=for-the-badge)
 ![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-00427E?style=for-the-badge)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge)
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
