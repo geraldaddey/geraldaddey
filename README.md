@@ -15,10 +15,15 @@ I'm Gerald, a tech enthusiast with a passion for building cool stuff and explori
 
 # Tech Stack
 
-## AI Tools
+## Co-Intelligence
 ![Cursor](https://img.shields.io/badge/Cursor-0475B5?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD166?style=for-the-badge)
 ![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-00427E?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-9B59B6?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge)
+![Mistral](https://img.shields.io/badge/Mistral-00A67E?style=for-the-badge)
+
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
