@@ -25,6 +25,12 @@ I'm Gerald, a tech enthusiast with a passion for building cool stuff and explori
 ![Mistral](https://img.shields.io/badge/Mistral-00A67E?style=for-the-badge)
 
 
+## Terminal
+![Oh My Zsh](https://img.shields.io/badge/Oh_My_Zsh-1A1A1A?style=for-the-badge)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-3367D6?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-8E44AD?style=for-the-badge)
+![thefuck](https://img.shields.io/badge/thefuck-FF5F56?style=for-the-badge)
+
 ## Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
