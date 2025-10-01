@@ -26,6 +26,7 @@ I'm Gerald, a tech enthusiast with a passion for building cool stuff and explori
 
 
 ## Terminal
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge)
 ![Oh My Zsh](https://img.shields.io/badge/Oh_My_Zsh-1A1A1A?style=for-the-badge)
 ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-3367D6?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-8E44AD?style=for-the-badge)
