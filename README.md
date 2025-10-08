@@ -16,10 +16,10 @@ I'm a software developer with a passion for building innovative solutions and ex
   <a href="https://www.linkedin.com/in/geraldaddey/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://x.com/geraldaddey" target="_blank">
+  <a href="https://x.com/iamgak" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
-  <a href="https://www.instagram.com/__quansah/" target="_blank">
+  <a href="https://www.instagram.com/iamgak/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
   <a href="https://www.youtube.com/c/QuansahTVchannel" target="_blank">
