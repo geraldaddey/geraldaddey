@@ -1,21 +1,21 @@
-# 👋 Hi, I'm Gerald Addey
+# Hi, I'm Gerald Addey
 
-I'm a **software developer** passionate about building innovative solutions and exploring the intersection of **AI and web development**.  
-I thrive on learning, experimenting, and creating tools that make technology more human-centered.
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently working with **Ruby on Rails** and **Vue.js**
-- 🤖 Exploring how to integrate **AI technologies** into web applications
-- 👯 Open to collaborating on **open-source projects**
-- 📫 Reach me at: [geraldaddey@yahoo.com](mailto:geraldaddey@yahoo.com)
-- 🎧 Fun fact: I love to **skate**, **practice calisthenics**, and **vibe to music** when I’m not coding!
+I’m a **software developer** passionate about building elegant, efficient, and human-centered digital experiences.  
+My work bridges the gap between **AI and web development**, where I craft solutions that are as intelligent as they are intuitive.
 
 ---
 
-### 🌐 Connect with Me
+## About Me
+
+- Currently working with **Ruby on Rails** and **Vue.js**
+- Exploring the integration of **AI technologies** into modern web applications
+- Open to **collaborating on open-source and community projects**
+- Reach me at **[geraldaddey@yahoo.com](mailto:geraldaddey@yahoo.com)**
+- Outside of tech, I enjoy **skating**, **calisthenics**, and **music discovery**
+
+---
+
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/geraldaddey/" target="_blank">
@@ -34,12 +34,12 @@ I thrive on learning, experimenting, and creating tools that make technology mor
 
 ---
 
-### 🧠 Tech Stack
+## Tech Stack
 
 <details>
-  <summary><b>🧩 Click to Expand My Tools & Technologies</b></summary>
+  <summary><b>Click to Expand Tools & Technologies</b></summary>
 
-  #### 🤝 Co-Intelligence
+  ### AI & Co-Intelligence
   <p>
     <img src="https://img.shields.io/badge/Cursor-0475B5?style=for-the-badge" alt="Cursor"/>
     <img src="https://img.shields.io/badge/Hugging_Face-FFD166?style=for-the-badge" alt="Hugging Face"/>
@@ -50,7 +50,7 @@ I thrive on learning, experimenting, and creating tools that make technology mor
     <img src="https://img.shields.io/badge/Mistral-00A67E?style=for-the-badge" alt="Mistral"/>
   </p>
 
-  #### 🧰 Terminal Tools
+  ### Terminal & Productivity Tools
   <p>
     <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge" alt="Vim"/>
     <img src="https://img.shields.io/badge/Oh_My_Zsh-1A1A1A?style=for-the-badge" alt="Oh My Zsh"/>
@@ -59,7 +59,7 @@ I thrive on learning, experimenting, and creating tools that make technology mor
     <img src="https://img.shields.io/badge/thefuck-FF5F56?style=for-the-badge" alt="thefuck"/>
   </p>
 
-  #### 💻 Languages
+  ### Programming Languages
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -69,7 +69,7 @@ I thrive on learning, experimenting, and creating tools that make technology mor
     <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
   </p>
 
-  #### 🧱 Frameworks & Libraries
+  ### Frameworks & Libraries
   <p>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"/>
@@ -84,7 +84,7 @@ I thrive on learning, experimenting, and creating tools that make technology mor
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   </p>
 
-  #### ☁️ Platforms, Tools & DevOps
+  ### Platforms, DevOps & Cloud
   <p>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
@@ -103,7 +103,19 @@ I thrive on learning, experimenting, and creating tools that make technology mor
 
 ---
 
-### 💡 Let's Build Something Amazing
+## Stats & Highlights
 
-I'm always eager to explore new technologies and collaborate on meaningful projects.  
-If you're working on something exciting or just want to connect, **let’s chat!**
+- Over **5 years** of experience in full-stack web development  
+- Delivered **AI-integrated features** to enhance automation and user engagement  
+- Contributor to **open-source projects** in Ruby, Vue, and JavaScript ecosystems  
+- Skilled in **cloud-native deployment**, **CI/CD pipelines**, and **API scalability**  
+- Strong advocate for **clean, maintainable, and human-readable code**
+
+---
+
+## Let’s Build Something Great
+
+I’m always looking to collaborate with passionate builders and innovators.  
+If you’re exploring new ideas or creating technology that empowers people, I’d love to connect and contribute.
+
+---
