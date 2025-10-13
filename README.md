@@ -103,16 +103,6 @@ My work bridges the gap between **AI and web development**, where I craft soluti
 
 ---
 
-## Stats & Highlights
-
-- Over **5 years** of experience in full-stack web development  
-- Delivered **AI-integrated features** to enhance automation and user engagement  
-- Contributor to **open-source projects** in Ruby, Vue, and JavaScript ecosystems  
-- Skilled in **cloud-native deployment**, **CI/CD pipelines**, and **API scalability**  
-- Strong advocate for **clean, maintainable, and human-readable code**
-
----
-
 ## Let’s Build Something Great
 
 I’m always looking to collaborate with passionate builders and innovators.  
