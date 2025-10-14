@@ -1,14 +1,14 @@
 # Hi, I'm Gerald Addey
 
 I’m a **software developer** passionate about building elegant, efficient, and human-centered digital experiences.  
-My work bridges the gap between **AI and web development**, where I craft solutions that are as intelligent as they are intuitive.
+I thrive on learning, experimenting, and creating tools that make technology more human-centered.
 
 ---
 
 ## About Me
 
 - Currently working with **Ruby on Rails** and **Vue.js**
-- Exploring the integration of **AI technologies** into modern web applications
+- Exploring the integration of **AI technologies** into modern web and mobile applications
 - Open to **collaborating on open-source and community projects**
 - Reach me at **[geraldaddey@yahoo.com](mailto:geraldaddey@yahoo.com)**
 - Outside of tech, I enjoy **skating**, **calisthenics**, and **music discovery**
