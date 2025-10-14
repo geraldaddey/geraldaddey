@@ -6,11 +6,10 @@ I’m a **software developer** passionate about learning, experimenting, and dev
 
 ## About Me
 
-- Currently working with **Ruby on Rails** and **Vue.js**
 - Exploring the integration of **AI technologies** into modern web and mobile applications
 - Open to **collaborating on open-source and community projects**
 - Reach me at **[geraldaddey@yahoo.com](mailto:geraldaddey@yahoo.com)**
-- Outside of tech, I enjoy **skating**, **calisthenics**, and **music discovery**
+- Outside of work, I enjoy **reading**, **skating**, **calisthenics**, **basketball** and **music**
 
 ---
 
