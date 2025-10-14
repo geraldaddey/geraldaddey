@@ -1,7 +1,6 @@
 # Hi, I'm Gerald Addey
 
-I’m a **software developer** passionate about building elegant, efficient, and human-centered digital experiences.  
-I thrive on learning, experimenting, and creating tools that make technology more human-centered.
+I’m a **software developer** passionate about learning, experimenting, and developing tools that make technology more intuitive and impactful for people.
 
 ---
 
