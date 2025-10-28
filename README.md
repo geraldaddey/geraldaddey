@@ -1,19 +1,28 @@
-# Hi, I'm Gerald Addey
+Perfect — thanks for sharing your README!
 
-I’m a **software developer** passionate about learning, experimenting, and developing tools that make technology more intuitive and impactful for people.
+Here’s what I’ll do based on your request:
+✅ Rename “AI & Co-Intelligence” → “Artificial Intelligence”
+✅ Add Vercel AI SDK and similar tools (like LangChain, LlamaIndex, and OpenDevin) under that section
 
----
+Here’s your updated version 👇
 
-## About Me
+⸻
 
-- Exploring the integration of **AI technologies** into modern web and mobile applications
-- Open to **collaborating on open-source and community projects**
-- Reach me at **[geraldaddey@yahoo.com](mailto:geraldaddey@yahoo.com)**
-- Outside of work, I enjoy **reading**, **skating**, **calisthenics**, **basketball** and **music** among other things.
+Hi, I’m Gerald Addey
 
----
+I’m a software developer passionate about learning, experimenting, and developing tools that make technology more intuitive and impactful for people.
 
-## Connect with Me
+⸻
+
+About Me
+	•	Exploring the integration of AI technologies into modern web and mobile applications
+	•	Open to collaborating on open-source and community projects
+	•	Reach me at geraldaddey@yahoo.com
+	•	Outside of work, I enjoy reading, skating, calisthenics, basketball, and music, among other things.
+
+⸻
+
+Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/geraldaddey/" target="_blank">
@@ -30,25 +39,35 @@ I’m a **software developer** passionate about learning, experimenting, and dev
   </a>
 </p>
 
----
 
-## Tech Stack
+
+⸻
+
+Tech Stack
 
 <details>
   <summary><b>Click to Expand Tools & Technologies</b></summary>
 
-  ### AI & Co-Intelligence
+
+Artificial Intelligence
+
   <p>
+    <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
     <img src="https://img.shields.io/badge/Cursor-0475B5?style=for-the-badge" alt="Cursor"/>
     <img src="https://img.shields.io/badge/Hugging_Face-FFD166?style=for-the-badge" alt="Hugging Face"/>
+    <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/LlamaIndex-FF6B00?style=for-the-badge" alt="LlamaIndex"/>
     <img src="https://img.shields.io/badge/MCP_Protocol-00427E?style=for-the-badge" alt="MCP Protocol"/>
+    <img src="https://img.shields.io/badge/OpenDevin-7E57C2?style=for-the-badge" alt="OpenDevin"/>
     <img src="https://img.shields.io/badge/Claude-9B59B6?style=for-the-badge" alt="Claude"/>
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI"/>
     <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge" alt="Google Gemini"/>
     <img src="https://img.shields.io/badge/Mistral-00A67E?style=for-the-badge" alt="Mistral"/>
   </p>
 
-  ### Terminal & Productivity Tools
+
+Terminal & Productivity Tools
+
   <p>
     <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge" alt="Vim"/>
     <img src="https://img.shields.io/badge/Oh_My_Zsh-1A1A1A?style=for-the-badge" alt="Oh My Zsh"/>
@@ -57,7 +76,9 @@ I’m a **software developer** passionate about learning, experimenting, and dev
     <img src="https://img.shields.io/badge/thefuck-FF5F56?style=for-the-badge" alt="thefuck"/>
   </p>
 
-  ### Programming Languages
+
+Programming Languages
+
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -67,7 +88,9 @@ I’m a **software developer** passionate about learning, experimenting, and dev
     <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
   </p>
 
-  ### Frameworks & Libraries
+
+Frameworks & Libraries
+
   <p>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"/>
@@ -82,7 +105,9 @@ I’m a **software developer** passionate about learning, experimenting, and dev
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   </p>
 
-  ### Platforms, DevOps & Cloud
+
+Platforms, DevOps & Cloud
+
   <p>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
@@ -97,13 +122,16 @@ I’m a **software developer** passionate about learning, experimenting, and dev
     <img src="https://img.shields.io/badge/Capistrano-E03C31?style=for-the-badge&logo=capistrano&logoColor=white" alt="Capistrano"/>
   </p>
 
+
 </details>
 
----
 
-## Let’s Build Something Great
 
-I’m always looking to collaborate with passionate builders and innovators.  
+⸻
+
+Let’s Build Something Great
+
+I’m always looking to collaborate with passionate builders and innovators.
 If you’re exploring new ideas or creating technology that empowers people, I’d love to connect and contribute.
 
----
+⸻
