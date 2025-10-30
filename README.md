@@ -1,18 +1,9 @@
-Perfect — thanks for sharing your README!
 
-Here’s what I’ll do based on your request:
-✅ Rename “AI & Co-Intelligence” → “Artificial Intelligence”
-✅ Add Vercel AI SDK and similar tools (like LangChain, LlamaIndex, and OpenDevin) under that section
-
-Here’s your updated version 👇
-
-⸻
 
 Hi, I’m Gerald Addey
 
 I’m a software developer passionate about learning, experimenting, and developing tools that make technology more intuitive and impactful for people.
 
-⸻
 
 About Me
 	•	Exploring the integration of AI technologies into modern web and mobile applications
