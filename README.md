@@ -26,10 +26,10 @@ I'm <b>Gerald Addey</b> — a Software Developer building intuitive and scalable
   <a href="https://www.linkedin.com/in/geraldaddey/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://x.com/iamgak" target="_blank">
+  <a href="https://x.com/iamgaq" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
-  <a href="https://www.instagram.com/iamgak/" target="_blank">
+  <a href="https://www.instagram.com/iamgaq/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
   </a>
   <a href="https://www.youtube.com/c/QuansahTVchannel" target="_blank">
