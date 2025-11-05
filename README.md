@@ -32,9 +32,6 @@ I'm <b>Gerald Addey</b> — a Software Developer building intuitive and scalable
 
 ## 🧰 Tech Stack
 
-<details>
-<summary><b>Click to Expand</b></summary><br/>
-
 ### 🤖 Artificial Intelligence & LLM Tools
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai" />
@@ -79,7 +76,5 @@ I'm <b>Gerald Addey</b> — a Software Developer building intuitive and scalable
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim" />
 <img src="https://img.shields.io/badge/Oh_My_Zsh-1A1A1A?style=for-the-badge" />
 </p>
-
-</details>
 
 ---
