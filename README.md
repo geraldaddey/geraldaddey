@@ -83,13 +83,3 @@ I'm <b>Gerald Addey</b> — a Software Developer building intuitive and scalable
 </details>
 
 ---
-
-## 📈 GitHub Analytics
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geraldaddey&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geraldaddey&theme=tokyonight" height="160" />
-</p>
-
----
