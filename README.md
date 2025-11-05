@@ -26,9 +26,6 @@ I'm <b>Gerald Addey</b> — a Software Developer building intuitive and scalable
   <a href="https://www.linkedin.com/in/geraldaddey/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.youtube.com/c/QuansahTVchannel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" />
-  </a>
 </p>
 
 ---
