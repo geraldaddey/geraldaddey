@@ -29,9 +29,6 @@ I'm <b>Gerald Addey</b> — a Software Developer building intuitive and scalable
   <a href="https://x.com/iamgaq" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
-  <a href="https://www.instagram.com/iamgaq/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
-  </a>
   <a href="https://www.youtube.com/c/QuansahTVchannel" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" />
   </a>
