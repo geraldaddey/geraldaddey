@@ -1,6 +1,6 @@
 # Welcome to My GitHub
 
-Hi, I’m **Gerald Addey** — a Software Developer building **intuitive and scalable digital experiences powered by AI**.  
+I'm Gerald Addey, AI-focused Full-Stack Engineer building intuitive, scalable digital experiences. I work across AI/LLMs, backend systems, and modern frontend frameworks to create products that are fast, reliable, and user-centered. Passionate about clean architecture, great UX, and solving real problems with technology.
 
 **AI Engineer | Full-Stack Developer | Problem Solver**
 
