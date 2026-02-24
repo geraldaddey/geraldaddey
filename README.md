@@ -1,6 +1,6 @@
 # Welcome to My GitHub
 
-I'm Gerald Addey, AI-focused Full-Stack Engineer building intuitive, scalable digital experiences. I work across AI/LLMs, backend systems, and modern frontend frameworks to create products that are fast, reliable, and user-centered. Passionate about clean architecture, great UX, and solving real problems with technology.
+I'm Gerald Addey, an AI-focused Full-Stack Engineer building intuitive, scalable digital experiences. I work across AI/LLMs, backend systems, and modern frontend frameworks to create products that are fast, reliable, and user-centered. I am passionate about clean architecture, great UX, and solving real-world problems with technology.
 
 **AI Engineer | Full-Stack Developer | Problem Solver**
 
@@ -8,17 +8,18 @@ I'm Gerald Addey, AI-focused Full-Stack Engineer building intuitive, scalable di
 
 ## About Me
 
-- Exploring AI-powered web & mobile applications  
-- Passionate about **intuitive UX** and impactful technology  
-- Open to collaborating on **open-source projects**  
+- Exploring AI-powered web and mobile applications  
+- Passionate about intuitive UX and impactful technology  
+- Open to collaborating on open-source projects  
 - Email: [geraldaddey@yahoo.com](mailto:geraldaddey@yahoo.com)  
-- Interests: Calisthenics, Reading, Skating, Basketball, Music  
+- Interests: Reading,Calisthenics, Skating, Basketball, Music  
 
 ---
 
 ## Connect With Me
 
-[LinkedIn – Connect with me](https://www.linkedin.com/in/geraldaddey/)
+[LinkedIn – Connect with me](https://www.linkedin.com/in/geraldaddey/)  
+[GitHub – Explore my projects](https://github.com/geraldaddey)  
 
 ---
 
@@ -31,6 +32,8 @@ I'm Gerald Addey, AI-focused Full-Stack Engineer building intuitive, scalable di
 - ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-orange?style=for-the-badge&logo=huggingface)  
 - ![LangChain](https://img.shields.io/badge/LangChain-purple?style=for-the-badge)  
 - ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-lightgrey?style=for-the-badge)  
+- ![OpenClaw](https://img.shields.io/badge/OpenClaw-darkgreen?style=for-the-badge)  
+- ![Model Context Protocol](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge)  
 - ![Vercel AI SDK](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)  
 
 ### Frontend
@@ -59,3 +62,37 @@ I'm Gerald Addey, AI-focused Full-Stack Engineer building intuitive, scalable di
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 - ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)  
 - ![Oh My Zsh](https://img.shields.io/badge/OhMyZsh-000000?style=for-the-badge&logo=linux&logoColor=white)  
+
+---
+
+## Areas of Expertise
+
+### AI & Autonomous Agents
+- OpenClaw-based agent systems and workflows  
+- Retrieval-Augmented Generation (RAG) architectures  
+- Multi-step reasoning and tool-calling pipelines  
+- Model routing and multi-LLM orchestration  
+- Context compression and memory optimization  
+- API-integrated AI automation systems  
+
+### Full-Stack Development
+- End-to-end web and mobile application development  
+- RESTful and GraphQL API design  
+- Service-oriented and microservice architectures  
+- Component-driven frontend development  
+- Server-side rendering and SPA frameworks  
+- Scalable and maintainable system architecture  
+
+### Systems & Infrastructure
+- Containerized deployments with Docker  
+- Production-grade backend systems  
+- Secure authentication and authorization strategies  
+- Performance optimization and maintainable codebases  
+- Cloud-hosted platforms and infrastructure-aware development  
+
+---
+
+## Collaboration
+
+I am open to collaboration on AI systems, autonomous agent frameworks, scalable platforms, and infrastructure-focused open-source projects.  
+For professional inquiries or collaboration, please reach out via email.
