@@ -8,18 +8,15 @@ I'm Gerald Addey, an AI-focused Full-Stack Engineer building intuitive, scalable
 
 ## About Me
 
-- Exploring AI-powered web and mobile applications  
-- Passionate about intuitive UX and impactful technology  
+- Exploring AI-powered web and mobile applications    
 - Open to collaborating on open-source projects  
-- Email: [geraldaddey@yahoo.com](mailto:geraldaddey@yahoo.com)  
-- Interests: Reading,Calisthenics, Skating, Basketball, Music  
+- Interests: Reading,Tech,Calisthenics, Skating, Music  
 
 ---
 
 ## Connect With Me
-
-[LinkedIn – Connect with me](https://www.linkedin.com/in/geraldaddey/)  
-[GitHub – Explore my projects](https://github.com/geraldaddey)  
+- [Email](geraldaddey@yahoo.com)
+- [LinkedIn](https://www.linkedin.com/in/geraldaddey/)  
 
 ---
 
