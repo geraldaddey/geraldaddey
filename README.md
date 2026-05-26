@@ -1,95 +1,170 @@
-# Welcome to My GitHub
+# 🚀 Welcome to My GitHub
 
-I'm Gerald Addey, an AI-focused Full-Stack Engineer building intuitive, scalable digital experiences. I work across AI/LLMs, backend systems, and modern frontend frameworks to create products that are fast, reliable, and user-centered. I am passionate about clean architecture, great UX, and solving real-world problems with technology.
+I'm **Gerald Addey**, an AI Engineer and Full-Stack Developer focused on building intelligent systems, autonomous agents, and scalable digital products. I work across LLMs, backend systems, frontend engineering, and edge AI to create fast, reliable, and human-centered software.
 
-**AI Engineer | Full-Stack Developer | Problem Solver**
+I’m especially interested in bridging **software + physical AI systems**, including robotics and edge computing platforms like the **NVIDIA Jetson Orin**.
 
----
-
-## About Me
-
-- Exploring AI-powered web and mobile applications    
-- Open to collaborating on open-source projects  
-- Interests: Reading,Tech,Calisthenics, Skating, Music  
+**AI Engineer | Full-Stack Developer | Edge AI Builder | Systems Thinker**
 
 ---
 
-## Connect With Me
-- [Email](geraldaddey@yahoo.com)
-- [LinkedIn](https://www.linkedin.com/in/geraldaddey/)  
+## 👨‍💻 About Me
+
+- Building AI-native web and mobile applications  
+- Exploring autonomous agents, multimodal AI, and RAG systems  
+- Working with edge AI and embedded computing (Jetson / CUDA ecosystems)  
+- Interested in robotics, real-time systems, and distributed AI  
+- Passionate about scalable architecture and developer experience  
+- Open to open-source collaboration and AI infrastructure projects  
+
+### Interests
+AI • Robotics • Edge Computing • Calisthenics • Skating • Music • Reading
 
 ---
 
-## Tech Stack
+## 📫 Connect With Me
 
-### Artificial Intelligence & LLM Tools
-- ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)  
-- ![Claude](https://img.shields.io/badge/Claude-gray?style=for-the-badge)  
-- ![Gemini](https://img.shields.io/badge/Gemini-yellow?style=for-the-badge)  
-- ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-orange?style=for-the-badge&logo=huggingface)  
-- ![LangChain](https://img.shields.io/badge/LangChain-purple?style=for-the-badge)  
-- ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-lightgrey?style=for-the-badge)  
-- ![OpenClaw](https://img.shields.io/badge/OpenClaw-darkgreen?style=for-the-badge)  
-- ![Model Context Protocol](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge)  
-- ![Vercel AI SDK](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)  
-
-### Frontend
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
-- ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
-- ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge)  
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-
-### Backend & DevOps
-- ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)  
-- ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)  
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-
-### Databases & Cloud
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-- ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)  
-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
-
-### Productivity & Terminal
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-- ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)  
-- ![Oh My Zsh](https://img.shields.io/badge/OhMyZsh-000000?style=for-the-badge&logo=linux&logoColor=white)  
+- Email: **geraldaddey@yahoo.com**  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/geraldaddey/)  
+- GitHub: [GitHub Profile](https://github.com/)
 
 ---
 
-## Areas of Expertise
+# 🧠 Tech Stack
 
-### AI & Autonomous Agents
-- OpenClaw-based agent systems and workflows  
-- Retrieval-Augmented Generation (RAG) architectures  
-- Multi-step reasoning and tool-calling pipelines  
-- Model routing and multi-LLM orchestration  
-- Context compression and memory optimization  
-- API-integrated AI automation systems  
+## 🤖 AI Engineering & LLM Ecosystem
 
-### Full-Stack Development
-- End-to-end web and mobile application development  
-- RESTful and GraphQL API design  
-- Service-oriented and microservice architectures  
-- Component-driven frontend development  
-- Server-side rendering and SPA frameworks  
-- Scalable and maintainable system architecture  
+- OpenAI  
+- Claude  
+- Gemini  
+- Hugging Face  
+- LangChain  
+- LlamaIndex  
+- CrewAI  
+- AutoGen  
+- DSPy  
+- OpenClaw  
+- Model Context Protocol (MCP)  
+- Vercel AI SDK  
+- Ollama  
+- PyTorch  
+- ONNX  
+- CUDA  
+- TensorRT  
 
-### Systems & Infrastructure
-- Containerized deployments with Docker  
-- Production-grade backend systems  
-- Secure authentication and authorization strategies  
-- Performance optimization and maintainable codebases  
-- Cloud-hosted platforms and infrastructure-aware development  
+---
+> Experience building and deploying AI models on edge devices for low-latency inference, robotics applications, and offline AI systems using NVIDIA Jetson platforms.
 
 ---
 
-## Collaboration
+## 🌐 Frontend Engineering
 
-I am open to collaboration on AI systems, autonomous agent frameworks, scalable platforms, and infrastructure-focused open-source projects.  
-For professional inquiries or collaboration, please reach out via email.
+- React  
+- Vue.js  
+- Next.js  
+- React Native  
+- Quasar Framework  
+- TailwindCSS  
+- TypeScript  
+
+---
+
+## 🔧 Backend & Infrastructure
+
+- Ruby on Rails  
+- Elixir / Phoenix  
+- Node.js  
+- Python (FastAPI, scripting, ML pipelines)  
+- GraphQL / REST APIs  
+- Docker  
+- Kubernetes  
+- Microservices Architecture  
+- Event-driven systems  
+
+---
+
+## 🗄️ Databases & Cloud
+
+- PostgreSQL  
+- MongoDB  
+- Redis  
+- Firebase  
+- Supabase  
+- Vercel  
+- Railway  
+- Heroku  
+
+---
+
+## 🧰 Developer Tools
+
+- Git & GitHub Actions  
+- Linux  
+- Vim / Neovim  
+- tmux  
+- Oh My Zsh  
+- CI/CD Pipelines  
+
+---
+
+# 🧩 Areas of Expertise
+
+## 🤖 AI & Autonomous Systems
+
+- Multi-agent AI systems  
+- Retrieval-Augmented Generation (RAG) pipelines  
+- LLM orchestration & tool calling  
+- Context memory & optimization strategies  
+- AI workflow automation systems  
+- Local LLM deployment & inference optimization  
+- Edge AI deployment (Jetson / CUDA ecosystems)  
+- Computer vision & multimodal AI systems  
+
+---
+
+## 🧱 Full-Stack Engineering
+
+- Scalable web & mobile applications  
+- API design (REST & GraphQL)  
+- Real-time systems  
+- Frontend architecture & design systems  
+- Cross-platform mobile development  
+- System design & distributed architectures  
+
+---
+
+## ⚙️ Systems & Infrastructure
+
+- Containerized deployments (Docker, Kubernetes)  
+- CI/CD automation  
+- Secure authentication & authorization systems  
+- Performance optimization & system tuning  
+- GPU-based inference optimization  
+- Observability & monitoring systems  
+
+---
+
+# 🎯 Current Focus
+
+- Building AI-native startups and intelligent platforms  
+- Exploring robotics and physical AI systems  
+- Deploying models on NVIDIA Jetson edge devices  
+- Researching autonomous agent architectures  
+- Optimizing local inference with CUDA & TensorRT  
+- Developing scalable AI infrastructure systems  
+
+---
+
+# 🤝 Collaboration
+
+I’m open to collaboration on:
+
+- AI infrastructure & agent frameworks  
+- Edge AI and robotics systems  
+- Open-source AI developer tools  
+- Scalable full-stack AI platforms  
+- Embedded intelligence systems  
+
+---
+
+⚡ Always building, always learning, always shipping.
